@@ -15,11 +15,4 @@ public class Tree {
         headNode.setValue(i);
     }
 
-//    private void addToRightNode(int i) {
-//        headNode.addToRightNode(i);
-//    }
-//
-//    private void addToLeftNode(int i) {
-//        headNode.addToLeftNode(i);
-//    }
 }
